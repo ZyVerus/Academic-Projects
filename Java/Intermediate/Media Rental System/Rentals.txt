@@ -1,0 +1,6 @@
+27631, false, E, The Higher They Fall, 2012, 15, 2.50
+87324, false, C, Dinner Sounds, 1995, 62, 3.24
+83924, false, D, The Furious Crew, 2019, 180.7, 3.50
+98342, true, E, Never Mind the Clutter, 2018, 45, 5.50
+37261, true, C, Wake Up Team, 2020, 103, 3.06
+18725, true, D, Holiday Scene, 2012, 140.5, 3.50

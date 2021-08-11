@@ -1,0 +1,4 @@
+Highest Week: 39
+Gas Price: 1.484735289
+Lowest Week: 6
+Gas Price: 1.384733877
