@@ -2,7 +2,7 @@
 """
 Created on Sun Nov  3 15:47:10 2019
 
-@author: zyverus
+@author: zyverus 
 
 This program simulates two players competing against each other in a basketball
 free-throw competition.
