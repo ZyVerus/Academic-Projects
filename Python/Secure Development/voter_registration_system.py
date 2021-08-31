@@ -194,7 +194,7 @@ def display_menu(option):
     intro = "Welcome to the Python Voter Registration Application."
     terminate = "Enter '0' to exit"
     closing = "Thanks for trying the Voter Registration Application." \
-    + "Your voter registration card should be shipped within 3 weeks."
+    + "\nYour voter registration card should be shipped within 3 weeks."
     if option == "upper":
         print(border)
         print(intro)
