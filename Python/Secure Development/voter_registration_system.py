@@ -49,7 +49,7 @@ def main():
     else:
         print("\nERROR: Registration Failed.")
         print("Exiting program. Thank you, and have a great day!\n")
-
+    input("Press any key to close this console.")
 ## F U N C T I O N S
 ## User Information
 # First Name
