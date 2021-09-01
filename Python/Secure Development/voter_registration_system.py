@@ -203,5 +203,5 @@ def display_menu(option):
         print(closing)
         print(border)
 
-# Execute main function
+# Execute main() function
 main()
